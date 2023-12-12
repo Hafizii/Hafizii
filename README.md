@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hafizi!👋 <br/><a href="https://www.linkedin.com/in/hafizisapie/">Aspiring Computer Science Students</a></h1>
+<h1>Hi, I'm Hafizi!👋 <br/>
 
 <h2>👨‍💻 Tech-Related Projects:</h2>
 
