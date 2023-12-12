@@ -24,6 +24,8 @@
   - [Certificate Link](https://github.com/Hafizii)
 - (Participants) "ARound the world" - AR Competition : Shaping Your Augmented Reality Realm
   - [Certificate Link](https://github.com/Hafizii)
+- (Participants) "JustRide: Grab Students App" - OH MY CODE! (OMC 12.0)
+  - [Certificate Link](https://github.com/Hafizii)
 - (Top 400 Team) - ADA WhatsApp Business Messaging Hackathon 2023
   - [Certificate Link](https://github.com/Hafizii)
 - (47th out of 92 teams) - PETRONAS Inter-University 2023 Capture The Flag Competition
