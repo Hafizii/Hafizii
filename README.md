@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hafizi!👋 <br/>
 
-<h2>👨‍💻 Tech-Related Projects:</h2>
+<h2>👨‍💻 Tech-Related Projects</h2>
 
 - <b>JustRide: Grab Students App (VB.NET,MYSQL)</b>
   - [Project link](https://github.com/Hafizii)
