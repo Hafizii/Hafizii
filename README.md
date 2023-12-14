@@ -2,7 +2,7 @@
 
 <!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frost8ytes&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=Hafizii&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 
 <h2>👨‍💻 Tech-Related Projects</h2>
