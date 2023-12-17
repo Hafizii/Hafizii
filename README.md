@@ -25,9 +25,9 @@
 - (3rd Place) "Klinik Syifa Appointment Web-App" - SYNTECH Hackathon 2023
   - [Certificate Link](https://utpmy-my.sharepoint.com/:b:/g/personal/ahmad_22007490_utp_edu_my/EZC3i2GouLVCjsKSiPxxPbUBiNJAimBduGc61RV44lS73A)
   - [Certificate Link](https://utpmy-my.sharepoint.com/:b:/g/personal/ahmad_22007490_utp_edu_my/EbeINuXTRfxKg-3mLS4mXzQBrcAhIFKZOW2ufu86vNPS1A)
-- (Finalist) Malaysia Techlympics 2023: MAICY Challenge
+- (Top 20 Finalist) Malaysia Techlympics 2023: MAICY Challenge
   - [Certificate Link](https://github.com/Hafizii)
-- (Participants) "ARound the world" - AR Competition : Shaping Your Augmented Reality Realm
+- (Top 10 Finalist)) "ARound the world" - AR Competition : Shaping Your Augmented Reality Realm
   - [Certificate Link](https://github.com/Hafizii)
 - (Participants) "JustRide: Grab Students App" - OH MY CODE! (OMC 12.0)
   - [Certificate Link](https://github.com/Hafizii)
@@ -39,6 +39,8 @@
   - [Certificate Link](https://utpmy-my.sharepoint.com/:i:/g/personal/ahmad_22007490_utp_edu_my/EeoQ-S3F5hBCgGMt_BahMR8BuNUAwEtUdGTvNN1l5BphBQ?e=NUe5KT)
 - (18th out of 34 teams) - ASEAN Battle of Hackers 2023 (ABOH 2023): Online ASEAN Category
   - [Certificate Link](https://utpmy-my.sharepoint.com/:b:/g/personal/ahmad_22007490_utp_edu_my/EQixPSgAfeRKuGuq6uW8SRMBUfg_DSVGUmuc4ijCXq30Vw?e=TLbfAJ)
+- (N/A) - Wargames.MY 2023 Capture The Flag (CTF)
+  - [Certificate Link](https://github.com/Hafizii)
 
 
 
