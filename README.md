@@ -1,10 +1,11 @@
 <h1>Hi, I'm Hafizi!👋 <br/>
-<!--
+
 <!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hafizii&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 
+<!---
 <h2>👨‍💻 Tech-Related Projects</h2>
 
 - <b>JustRide: Grab Students App (VB.NET,MYSQL)</b>
@@ -17,11 +18,6 @@
   - [Project Link](https://github.com/Hafizii)
 - <b>Hafizi Sapie Linktree (HTML,CSS)</b>
   - [Project Link](https://github.com/Hafizii)
-
-<!---
--<b>Portfolio Website (HTML,CSS,Javascript,ReactJS)</b>
--->
-
 <h2>🏆 CTF & Hackathons Competitions</h2>
 
 - (3rd Place) "Klinik Syifa Appointment Web-App" - SYNTECH Hackathon 2023
@@ -60,4 +56,24 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/hafizisapie/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
 
